@@ -144,7 +144,7 @@ const Header = () => {
           <div className="tw-pb-5 tw-px-8">
             <img
               src={require("../../assets/images/logo.png")}
-              className="tw-object-contain tw-w-[60px]"
+              className="tw-object-contain tw-w-[170px]"
               alt="Logo"
             />
           </div>

@@ -417,7 +417,7 @@ const Staking = () => {
          
              </div>
             <div>
-              <Button label={"Claim"} className={"tw-w-full tw-font-zen-dots"} />
+              <Button label={"Claim"} className={"tw-w-full text-white tw-font-zen-dots"} />
             </div>
           </div>
         </div>
